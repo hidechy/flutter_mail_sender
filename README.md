@@ -1,0 +1,2 @@
+- https://www.kamo-it.org/blog/flutter-mail/
+- https://pub.dev/packages/flutter_email_sender
